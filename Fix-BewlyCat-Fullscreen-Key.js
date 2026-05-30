@@ -6,8 +6,8 @@
 // @match        *://*.bilibili.com/*
 // @grant        none
 // @license      GPL 3.0
-// @updateURL   https://raw.githubusercontent.com/Windows-LPG/Fix-Bewlycat-fullscreen-key/main/Fix BewlyCat fullscreen key.js
-// @downloadURL https://raw.githubusercontent.com/Windows-LPG/Fix-Bewlycat-fullscreen-key/main/Fix BewlyCat fullscreen key.js
+// @updateURL   https://raw.githubusercontent.com/Windows-LPG/Fix-Bewlycat-fullscreen-key/main/Fix-BewlyCat-Fullscreen-Key.js
+// @downloadURL https://raw.githubusercontent.com/Windows-LPG/Fix-Bewlycat-fullscreen-key/main/Fix-BewlyCat-Fullscreen-Key.js
 // @author       Windows_LPG
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // ==/UserScript==
