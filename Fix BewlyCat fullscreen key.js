@@ -6,9 +6,9 @@
 // @match        *://*.bilibili.com/*
 // @grant        none
 // @license      GPL 3.0
-// @updateURL   https://raw.githubusercontent.com/你的用户名/仓库名/分支/脚本名.user.js
-// @downloadURL https://raw.githubusercontent.com/你的用户名/仓库名/分支/脚本名.user.js
-// @author       你的名字
+// @updateURL   https://raw.githubusercontent.com/Windows-LPG/Fix-Bewlycat-fullscreen-key/main/Fix BewlyCat fullscreen key.js
+// @downloadURL https://raw.githubusercontent.com/Windows-LPG/Fix-Bewlycat-fullscreen-key/main/Fix BewlyCat fullscreen key.js
+// @author       Windows_LPG
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // ==/UserScript==
 
